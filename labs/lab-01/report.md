@@ -57,4 +57,5 @@
 
 1.6: Reflection
 ---------------
-Open Source Project: Telepathy
+### Open Source Project: Magenta<br/>
+While reading through a list of popular open source projects, Magenta caught my eye. It is a Python open source library that stems from TensorFlow and allows the manipulation of source data like images and audio. Magenta uses machine learning to teach machine learning models with existing data, creating new content and creative variations of art. As someone who is interested in machine learning and art, I felt like this open source project would be interesting to research and learn more about!
