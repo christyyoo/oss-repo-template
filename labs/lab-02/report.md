@@ -6,3 +6,13 @@ https://github.com/christyyoo/lab2part1</br>
 
 Part 2:</br>
 Forked Repository: https://github.com/christyyoo/Spoon-Knife</br>
+
+Learn Git Branching:</br>
+![image](https://user-images.githubusercontent.com/60198697/150721917-542977d8-d31a-4d38-b423-a609ac723b19.png)
+
+
+Part 3:</br>
+Forked Repository: https://github.com/christyyoo/PullReq</br>
+![image](https://user-images.githubusercontent.com/60198697/150723534-35da33c6-6e29-4c00-b7bc-9cc2a34fa082.png)
+![image](https://user-images.githubusercontent.com/60198697/150723640-db2709ed-b695-48e1-9519-b8553aefd0f0.png)
+Common Repository: https://github.com/robere2/OSSProjectIdeas
