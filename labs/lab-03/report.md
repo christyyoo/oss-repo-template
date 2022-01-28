@@ -1,4 +1,4 @@
-**Table 8**: Donna, Alexis, Christy, Zach, Dylan
+**Table 8**: Donna, Alexis, Christy, Zach, Dylan  
 **Project Selection**: blockzeus-desktop, Borilliant Feedback, boxsplit, BrewMe, BShare (names in order)  
 **Project name**: boxsplit  
 **Number of contributors**: 5  
