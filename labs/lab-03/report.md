@@ -20,3 +20,8 @@ blah
 **Gitstats**  
 ![image](https://user-images.githubusercontent.com/60198697/151603077-41a2c1dd-c44a-423c-98d8-6288467baea5.png)  
 The total lines of code on GitStats is 9074 while it is 9528 on GitHub. There were also 5 authors in GitHub, but GitStats has it recorded as 9. Judging from the graphs provided, it seems like there are some cases where some authors have worked on it from multiple accounts.  
+  
+**Gource**  
+Error when executing the given commands:  
+![image](https://user-images.githubusercontent.com/60198697/151620290-9a7619e2-d165-4673-93f1-76cfa812c8a2.png)
+
