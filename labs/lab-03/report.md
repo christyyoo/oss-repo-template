@@ -1,6 +1,5 @@
-**Table 8**: Christy, Donna, Alexis, Dylan, Zach
-
-**Project Selection**: boxsplit  
+**Table 8**: Donna, Alexis, Christy, Zach, Dylan
+**Project Selection**: blockzeus-desktop, Borilliant Feedback, boxsplit, BrewMe, BShare (names in order)  
 **Project name**: boxsplit  
 **Number of contributors**: 5  
 **Number of lines of code**: 9528  
