@@ -1,3 +1,11 @@
+## Part 1 -- Documentation
+**(3) Use latex to generate the formulae depicted in latex_formulae.png**  
+![latex_formulae](https://user-images.githubusercontent.com/60198697/151600168-d04bd7fa-a137-4a8e-9120-db61b2e44e53.png)  
+**(4) Use latex to display a Hadamard Matrix of size 4**  
+blah
+
+
+## Part 2 -- Community
 **Table 8**: Donna, Alexis, Christy, Zach, Dylan  
 **Project Selection**: blockzeus-desktop, Borilliant Feedback, boxsplit, BrewMe, BShare (names in order)  
 **Project name**: boxsplit  
