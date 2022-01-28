@@ -15,4 +15,8 @@ blah
 **Latest commit**: commit 03c7d625f086098eb5ada197984de21812c515c2  
 **Current branches**:
 * master  
-* dependabot/npm_and_yarn/react-app/follow-redirects-1.14.7
+* dependabot/npm_and_yarn/react-app/follow-redirects-1.14.7  
+  
+**Gitstats**  
+![image](https://user-images.githubusercontent.com/60198697/151603077-41a2c1dd-c44a-423c-98d8-6288467baea5.png)  
+The total lines of code on GitStats is 9074 while it is 9528 on GitHub. There were also 5 authors in GitHub, but GitStats has it recorded as 9. Judging from the graphs provided, it seems like there are some cases where some authors have worked on it from multiple accounts.  
