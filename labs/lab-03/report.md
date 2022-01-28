@@ -1,9 +1,8 @@
 ## Part 1 -- Documentation
+**(2) Wiki page link**: https://github.com/christyyoo/oss-repo-template/wiki/Project-Interest-Description  
 **(3) Use latex to generate the formulae depicted in latex_formulae.png**  
-![latex_formulae](https://user-images.githubusercontent.com/60198697/151600168-d04bd7fa-a137-4a8e-9120-db61b2e44e53.png)  
 **(4) Use latex to display a Hadamard Matrix of size 4**  
-blah
-
+![image](https://user-images.githubusercontent.com/60198697/151627346-0a118db1-6dbb-4e50-b41c-c204c6f482cd.png)  
 
 ## Part 2 -- Community
 **Table 8**: Donna, Alexis, Christy, Zach, Dylan  
