@@ -26,7 +26,10 @@ The total lines of code on GitStats is 9074 while it is 9528 on GitHub. There we
 **First commit**: commit 32b9448f521a174351dabbc9f2698eecdd2e5b4c  
 **Latest commit**: commit 2c2489d959fdb2130c7bd31830bada558d2db249  
 **Current branches**:  
-master  
+![image](https://raw.githubusercontent.com/Kullas233/oss-repo-template/master/labs/lab-03/images/branches.png)  
+**Gitstats**  
+![image](https://raw.githubusercontent.com/Kullas233/oss-repo-template/master/labs/lab-03/images/gitstats.png)  
+The only difference that gitstats shows is the number of lines is 2257 compared to 114638 from the command. This is because the majority of those lines are from jpg files which are not counted by gitstats.  
 
 **Project name**: Blockzeus-desktop  
 **Number of contributors**: 3  
@@ -39,6 +42,7 @@ master
 ![image](https://user-images.githubusercontent.com/60018973/151598735-b770752a-280f-4f66-9c41-a3646c31b497.png)  
 **Gitstats**:  
 ![image](https://user-images.githubusercontent.com/60018973/151603164-b1be4068-4e11-426e-a8c9-bcc3b3cb6d63.png)  
+Gitstats instead shows 14871 lines of code, with 4 authors/contributors. The latest commit recording matches with that from the repository.  
 
 **Project name**: Borilliant-Feedback  
 **Number of contributors**: 4  
