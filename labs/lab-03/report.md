@@ -56,7 +56,19 @@ master
 **Gitstats**:  
 ![image](https://user-images.githubusercontent.com/48782723/151601680-4e8bfec0-595f-460c-b503-47882b395ed3.png)  
 The total number of lines reported with gitstats is much higher than the lines found by running git ls-files -z | xargs -0 wc -l. All other statistics are consistent between the manual findings and gitstats.  
-  
+
+**Project name**: BrewMe Project  
+**Number of contributors**: 3  
+**Number of lines of code**: 24165  
+**First commit**:  
+Commit 55ab008e940689ab6da10c83ac9e2abdb43b27dc on 9/13/19  
+**Latest commit**:  
+Latest commit: Commit e62b2496df018ea1a48377030acf78e7ed984efe on 12/10/19  
+**Current branches**:  
+master, jerryDev  
+**Gitstats**:  
+For BrewMe the number of contributers, and the first/latest commit all match the previous exercise. The lines of code according to gitstats is only 17063, versus the 24165 I got from the github repo. And branches don't seem to be visible in GitStats, so there is no way to compare these.  
+
 **Gource**  
 Error when executing the given commands:  
 ![image](https://user-images.githubusercontent.com/60198697/151620290-9a7619e2-d165-4673-93f1-76cfa812c8a2.png)
