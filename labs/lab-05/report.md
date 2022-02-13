@@ -15,4 +15,6 @@ Step 4:
 ![image](https://user-images.githubusercontent.com/60198697/153775816-cdf105a4-b6d0-487a-b3fe-3ba6e30010e5.png)  
 
 Step 5:  
-![image](https://user-images.githubusercontent.com/60198697/153776690-f9e286a6-412a-4544-b4cb-255d5c4459ee.png)
+![image](https://user-images.githubusercontent.com/60198697/153776690-f9e286a6-412a-4544-b4cb-255d5c4459ee.png)  
+
+** Files are attached to the lab-05 folder.
