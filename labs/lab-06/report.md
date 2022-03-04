@@ -12,4 +12,5 @@ Running example from https://networkx.org/documentation/stable/auto_examples/dra
 ![image](https://user-images.githubusercontent.com/60198697/156817926-4aaf40ce-fd6e-4c3f-a77d-3d1b892a28ef.png)
 
 ### Variation:
+(code is included in lab folder under plot_words_variation.py)
 ![image](https://user-images.githubusercontent.com/60198697/156819200-c1e7d372-5410-4b6b-bf2c-d9ae11f3dc6b.png)
