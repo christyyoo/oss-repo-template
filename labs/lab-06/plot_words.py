@@ -57,6 +57,7 @@ def generate_graph(words):
 def words_graph():
     """Return the words example graph from the Stanford GraphBase"""
     fh = gzip.open('words_dat.txt.gz', 'r')
+    # fh = gzip.open('words4_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
         line = line.decode()
@@ -78,12 +79,20 @@ if __name__ == '__main__':
     # for (source, target) in [('chaos', 'order'),
     #                          ('nodes', 'graph'),
     #                          ('pound', 'marks')]:
-    for (source, target) in [('chaos', 'order'),
-                            ('plots', 'graph'),
-                            ('moron', 'smart'),
-                            ('flies', 'swims'),
-                            ('mango', 'peach'),
-                            ('pound', 'marks')]:
+
+    # testing 5-letter words (bullet #1)
+    # for (source, target) in [('chaos', 'order'),
+    #                         ('plots', 'graph'),
+    #                         ('moron', 'smart'),
+    #                         ('flies', 'swims'),
+    #                         ('mango', 'peach'),
+    #                         ('pound', 'marks')]:
+    # testing 4-letter words (bullet #2)
+    for (source, target) in [('cold', 'warm'),
+                            ('love', 'hate'),
+                            ('good', 'evil'),
+                            ('pear', 'beef'),
+                            ('make', 'take')]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
