@@ -10,3 +10,6 @@ Running example from https://networkx.org/documentation/stable/auto_examples/dra
 ### Testing words of length 4:
 ![image](https://user-images.githubusercontent.com/60198697/156817835-bd296f9d-e77d-43f5-81c4-baa3e10239d0.png)
 ![image](https://user-images.githubusercontent.com/60198697/156817926-4aaf40ce-fd6e-4c3f-a77d-3d1b892a28ef.png)
+
+### Variation:
+![image](https://user-images.githubusercontent.com/60198697/156819200-c1e7d372-5410-4b6b-bf2c-d9ae11f3dc6b.png)
