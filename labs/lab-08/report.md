@@ -32,3 +32,6 @@ date from 2020 to 2022.
 ![image](https://user-images.githubusercontent.com/60198697/159139044-46829daa-f98d-440f-8643-0aa36de8c1c0.png)  
 
 ## Checkpoint 4: CI/CD
+[CMake Step 5 Repository](https://github.com/christyyoo/cmake_step5)  
+![image](https://user-images.githubusercontent.com/60198697/159140803-dbac17a5-2396-4f1b-bbf9-0d7921652ffb.png)  
+![image](https://user-images.githubusercontent.com/60198697/159140829-5fafb93e-ea37-4dfc-b8a1-01adc08b1835.png)  
