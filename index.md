@@ -18,3 +18,4 @@ RPI Email: yooc@rpi.edu
 [Lab 5](labs/lab-05/report.md)  
 [Lab 6](labs/lab-06/report.md)  
 [Lab 8](labs/lab-08/report.md)  
+[Lab 9](labs/lab-09/report.md)  
